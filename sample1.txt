@@ -1,2 +1,3 @@
 new text documnet --Third commit
 new text for sample1 --Fourth commit
+chnages in sample1:

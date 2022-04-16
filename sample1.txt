@@ -1,2 +1,4 @@
 new text documnet --Third commit
+new line of code --Fourth commit
 new text for sample1 --Fourth commit
+chnages in sample1:

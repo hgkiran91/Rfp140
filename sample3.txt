@@ -1,2 +1,6 @@
 new line of code by developer --slave4
+<<<<<<< Updated upstream
 added a new code to the project by developer --slave4
+=======
+another line of code by developer --slave4
+>>>>>>> Stashed changes
